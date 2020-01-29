@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroCliente", "Cadastro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lojaTinta", "lojaTinta\lojaTinta.csproj", "{82ABC988-5A19-49EB-A945-43FEBB3198AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaTintaV2.0", "LojaTintaV2.0\LojaTintaV2.0.csproj", "{B682CA7D-3AF7-4A71-9C29-11DD92314530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{82ABC988-5A19-49EB-A945-43FEBB3198AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82ABC988-5A19-49EB-A945-43FEBB3198AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82ABC988-5A19-49EB-A945-43FEBB3198AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B682CA7D-3AF7-4A71-9C29-11DD92314530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B682CA7D-3AF7-4A71-9C29-11DD92314530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B682CA7D-3AF7-4A71-9C29-11DD92314530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B682CA7D-3AF7-4A71-9C29-11DD92314530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
