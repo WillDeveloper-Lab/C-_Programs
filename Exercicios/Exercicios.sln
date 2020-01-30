@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lojaTinta", "lojaTinta\loja
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaTintaV2.0", "LojaTintaV2.0\LojaTintaV2.0.csproj", "{B682CA7D-3AF7-4A71-9C29-11DD92314530}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AumentoSalario", "AumentoSalario\AumentoSalario.csproj", "{1902F698-0607-4D38-BB15-3481AC5D311F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B682CA7D-3AF7-4A71-9C29-11DD92314530}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B682CA7D-3AF7-4A71-9C29-11DD92314530}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B682CA7D-3AF7-4A71-9C29-11DD92314530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1902F698-0607-4D38-BB15-3481AC5D311F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1902F698-0607-4D38-BB15-3481AC5D311F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1902F698-0607-4D38-BB15-3481AC5D311F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1902F698-0607-4D38-BB15-3481AC5D311F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
