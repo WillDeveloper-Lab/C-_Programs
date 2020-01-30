@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdemDecrescente", "OrdemDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolhaPagamento", "FolhaPagamento\FolhaPagamento.csproj", "{62355E3A-DA58-4E8B-9BC8-55FF35445DC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaSemana", "DiaSemana\DiaSemana.csproj", "{43CB7AA5-C869-4E6A-B529-D00F0D100F86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{62355E3A-DA58-4E8B-9BC8-55FF35445DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62355E3A-DA58-4E8B-9BC8-55FF35445DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62355E3A-DA58-4E8B-9BC8-55FF35445DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CB7AA5-C869-4E6A-B529-D00F0D100F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CB7AA5-C869-4E6A-B529-D00F0D100F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CB7AA5-C869-4E6A-B529-D00F0D100F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CB7AA5-C869-4E6A-B529-D00F0D100F86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
