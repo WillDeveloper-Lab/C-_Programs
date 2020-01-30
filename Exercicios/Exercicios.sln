@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolhaPagamento", "FolhaPaga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiaSemana", "DiaSemana\DiaSemana.csproj", "{43CB7AA5-C869-4E6A-B529-D00F0D100F86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Triangulo.csproj", "{08D1D22D-011A-4F35-BB9F-7630C1753464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{43CB7AA5-C869-4E6A-B529-D00F0D100F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CB7AA5-C869-4E6A-B529-D00F0D100F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43CB7AA5-C869-4E6A-B529-D00F0D100F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D1D22D-011A-4F35-BB9F-7630C1753464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D1D22D-011A-4F35-BB9F-7630C1753464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D1D22D-011A-4F35-BB9F-7630C1753464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D1D22D-011A-4F35-BB9F-7630C1753464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
