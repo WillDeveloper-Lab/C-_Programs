@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaTintaV2.0", "LojaTintaV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AumentoSalario", "AumentoSalario\AumentoSalario.csproj", "{1902F698-0607-4D38-BB15-3481AC5D311F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdemDecrescente", "OrdemDecrescente\OrdemDecrescente.csproj", "{B4A67A8C-4C4A-497D-ABC4-CBF251772416}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1902F698-0607-4D38-BB15-3481AC5D311F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1902F698-0607-4D38-BB15-3481AC5D311F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1902F698-0607-4D38-BB15-3481AC5D311F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A67A8C-4C4A-497D-ABC4-CBF251772416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A67A8C-4C4A-497D-ABC4-CBF251772416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A67A8C-4C4A-497D-ABC4-CBF251772416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A67A8C-4C4A-497D-ABC4-CBF251772416}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
