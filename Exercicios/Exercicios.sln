@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Tria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotaInvalida", "NotaInvalida\NotaInvalida.csproj", "{1395247A-D11F-4D25-BCC4-6F5493699142}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteLoginIgualSenha", "TesteLoginIgualSenha\TesteLoginIgualSenha.csproj", "{E7AA42E1-DE76-4070-8D0D-8B37498AB802}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{1395247A-D11F-4D25-BCC4-6F5493699142}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1395247A-D11F-4D25-BCC4-6F5493699142}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1395247A-D11F-4D25-BCC4-6F5493699142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AA42E1-DE76-4070-8D0D-8B37498AB802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AA42E1-DE76-4070-8D0D-8B37498AB802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AA42E1-DE76-4070-8D0D-8B37498AB802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AA42E1-DE76-4070-8D0D-8B37498AB802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
