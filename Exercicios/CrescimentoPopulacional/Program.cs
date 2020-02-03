@@ -23,7 +23,7 @@ namespace CrescimentoPopulacional
                     i++;
                 }
             }
-            Console.WriteLine($"A = {populacaoA} - B = {populacaoB}");
+            Console.WriteLine($"A = {populacaoA} - B = {populacaoB}  : { anos}");
             // Console.WriteLine($"Foram necessarios {anos} anos para que a população A chegasse a: {populacaoA}");
             Console.ReadKey();
         }
