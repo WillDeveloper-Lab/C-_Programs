@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrescimentoPopulacional", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrescimentoPopulacionalV2.0", "CrescimentoPopulacionalV2.0\CrescimentoPopulacionalV2.0.csproj", "{5CAC18C9-B11F-42F2-8765-9F6AC95A0608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{14E38FB0-ACEA-480A-AEEE-9D8BF014C06B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{5CAC18C9-B11F-42F2-8765-9F6AC95A0608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAC18C9-B11F-42F2-8765-9F6AC95A0608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAC18C9-B11F-42F2-8765-9F6AC95A0608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E38FB0-ACEA-480A-AEEE-9D8BF014C06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E38FB0-ACEA-480A-AEEE-9D8BF014C06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E38FB0-ACEA-480A-AEEE-9D8BF014C06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E38FB0-ACEA-480A-AEEE-9D8BF014C06B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
