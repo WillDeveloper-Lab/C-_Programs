@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotenciaSemFuncao", "Potenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroImpar", "NumeroImpar\NumeroImpar.csproj", "{912A83ED-3390-40AF-8595-5E771F0243A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{D05FEF66-ABE4-4E5B-980F-72BBEF09BBA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{912A83ED-3390-40AF-8595-5E771F0243A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{912A83ED-3390-40AF-8595-5E771F0243A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{912A83ED-3390-40AF-8595-5E771F0243A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05FEF66-ABE4-4E5B-980F-72BBEF09BBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05FEF66-ABE4-4E5B-980F-72BBEF09BBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05FEF66-ABE4-4E5B-980F-72BBEF09BBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05FEF66-ABE4-4E5B-980F-72BBEF09BBA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
