@@ -10,18 +10,21 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
-            Console.Write("Digite um numero: ");
-            int num = Convert.ToInt32(Console.ReadLine());
             int anterior = 0;
             int atual = 1;
-            Console.Write(anterior);
-            Console.Write(atual);
-            for (int i = 2; 2<=num; i++)
+            int soma = 0;
+            Console.Write("Digite um numero: ");
+            int num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(anterior);
+            Console.WriteLine(atual);
+            for (int i = 2; i < num; i++)
             {
+                soma = anterior + atual;
+                Console.WriteLine(soma);
                 anterior = atual;
-                atual += anterior;
-                Console.WriteLine(atual);
+                atual = soma;
             }
+
             Console.ReadKey();
         }
     }
