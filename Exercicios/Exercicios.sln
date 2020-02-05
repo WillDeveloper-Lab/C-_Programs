@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerVetor", "LerVetor\LerVet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consoante", "Consoante\Consoante.csproj", "{14385461-6D46-46B5-8852-4486C4EFD629}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnqueteSO", "EnqueteSO\EnqueteSO.csproj", "{50DF3F7E-E9EF-4EAE-9916-99CC28C8E89F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{14385461-6D46-46B5-8852-4486C4EFD629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14385461-6D46-46B5-8852-4486C4EFD629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14385461-6D46-46B5-8852-4486C4EFD629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50DF3F7E-E9EF-4EAE-9916-99CC28C8E89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DF3F7E-E9EF-4EAE-9916-99CC28C8E89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DF3F7E-E9EF-4EAE-9916-99CC28C8E89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DF3F7E-E9EF-4EAE-9916-99CC28C8E89F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
