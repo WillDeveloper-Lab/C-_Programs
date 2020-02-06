@@ -10,8 +10,23 @@ namespace OrganizadorFinanceiro
     {
         public string usuario { get; set; }
         public string senha { get; set; }
-        public Cliente cliente { get; set; }
-        
+        public Cliente cliente;
+        public Cartao[] cartoes { get; set; }
+
+        public Conta()
+        {
+            cliente = new Cliente();
+        }
+        public void Cadastrar()
+        {
+          
+            Console.Write("Digite um Usuario: ");
+            this.usuario = Console.ReadLine();
+            Console.Write("Digite uma Senha: ");
+            this.senha = Console.ReadLine();
+            cliente.Cadastrar();
+        }
+
 
     }
 }
