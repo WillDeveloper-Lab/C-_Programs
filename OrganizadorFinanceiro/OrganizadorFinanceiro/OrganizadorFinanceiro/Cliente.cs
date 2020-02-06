@@ -13,5 +13,7 @@ namespace OrganizadorFinanceiro
         public string email { get; set; }
         public int telefone { get; set; }
         public int dataNascimento { get; set; }
+        public double salario { get; set; }
+
     }
 }
