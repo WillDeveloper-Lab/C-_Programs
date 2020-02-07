@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizadorFinanceiro", "OrganizadorFinanceiro\OrganizadorFinanceiro.csproj", "{698D2070-892F-4295-BFF5-9C5904C90EE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizadorFinanceiro2", "..\OrganizadorFinanceiro2\OrganizadorFinanceiro2.csproj", "{99D822FA-9F21-40A8-A7F6-2746564813D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{698D2070-892F-4295-BFF5-9C5904C90EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{698D2070-892F-4295-BFF5-9C5904C90EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{698D2070-892F-4295-BFF5-9C5904C90EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D822FA-9F21-40A8-A7F6-2746564813D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D822FA-9F21-40A8-A7F6-2746564813D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D822FA-9F21-40A8-A7F6-2746564813D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D822FA-9F21-40A8-A7F6-2746564813D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
